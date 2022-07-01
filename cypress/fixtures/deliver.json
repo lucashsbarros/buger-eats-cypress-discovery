@@ -1,0 +1,55 @@
+{
+    "signup": {
+        "name": "Lucas Barros",
+            "cpf":"27742182092",
+            "email": "lucasbarros@lucas.com",
+            "whatsapp": "11944445555",
+            "address": {
+                "postalcode": "14090283",
+                "street": "Rua Guarujá",
+                "number": "830",
+                "details": "Apto 13",
+                "district": "Jardim Paulistano",
+                "city_state": "Ribeirão Preto/SP"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    
+        "cpf_inv":  {
+            "name": "Paulo Jose",
+            "cpf":"xx742182092",
+            "email": "lucasbarros@lucas.com",
+            "whatsapp": "11944445555",
+            "address": {
+                "postalcode": "14090283",
+                "street": "Rua Guarujá",
+                "number": "830",
+                "details": "Apto 13",
+                "district": "Jardim Paulistano",
+                "city_state": "Ribeirão Preto/SP"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        },
+
+        "email_inv": {
+            "name": "Lucas Barros",
+                "cpf":"27742182092",
+                "email": "lucas.com.br",
+                "whatsapp": "11944445555",
+                "address": {
+                    "postalcode": "14090283",
+                    "street": "Rua Guarujá",
+                    "number": "830",
+                    "details": "Apto 13",
+                    "district": "Jardim Paulistano",
+                    "city_state": "Ribeirão Preto/SP"
+    
+                },
+                "delivery_method": "Moto",
+                "cnh": "cnh-digital.jpg"
+        }
+}

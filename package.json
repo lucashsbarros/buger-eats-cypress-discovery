@@ -1,0 +1,21 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de teste de aceitação do app BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Lucas Barros",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "@types/faker": "^6.6.9",
+    "cypress": "^9.5.2",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3"
+  },
+  "dependencies": {
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
